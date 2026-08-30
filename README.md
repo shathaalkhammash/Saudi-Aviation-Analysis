@@ -60,7 +60,7 @@ The dashboard provides an interactive view of flight activity, including total f
 - `saudi_aviation_analysis.ipynb` — Python data cleaning, feature engineering, and exploratory data analysis
 - `Saudi_Aviation.xlsb` — Excel analysis with PivotTables and charts
 - `Saudi_Aviation_Analysis.pbix` — Interactive Power BI dashboard
-- `powerbi_dashboard.png` — Preview of the final Power BI dashboard
+- `powerbi_dashboard1.png` — Preview of the final Power BI dashboard
 
 ## Data Limitations
 
