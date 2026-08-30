@@ -54,6 +54,7 @@ New columns were created from the scheduled local flight time to support the ana
 The dashboard provides an interactive view of flight activity, including total flights, arrivals and departures, airline activity, destinations, terminal usage, and flight patterns over time.
 
 ![Power BI Dashboard](powerbi_dashboard.png)
+
 ## Project Files
 
 - `saudi_aviation_analysis.ipynb` — Python data cleaning, feature engineering, and exploratory data analysis
